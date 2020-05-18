@@ -17,17 +17,25 @@ Liens:
     ##### Titre de niveau 5
     ###### Titre de niveau 6
 
+Résultat:
+# Titre de niveau 1
+## Titre de niveau 2
+### Titre de niveau 3
+#### Titre de niveau 4
+##### Titre de niveau 5
+###### Titre de niveau 6
+
 # Les textes gras, italiques et barrés
 
     *Ceci est un texte italique*,  **Ceci est un texte gras** et ~~Ceci est un texte barré~~
     **Il est possible de les *combiner* comme ceci** ou *encore comme **ceci***
-Résultat:
+Résultat:  
 *Ceci est un texte italique*,  **Ceci est un texte gras** et ~~Ceci est un texte barré~~
 **Il est possible de les *combiner* comme ceci** ou *encore comme **ceci***
 
     _Ceci est un texte italique_ et __Ceci est un texte gras__ et ~~Ceci est un texte barré~~
     __Il est possible de les _combiner_ comme ceci__ ou _encore comme __ceci___
-Résultat:
+Résultat:  
 _Ceci est un texte italique_ et __Ceci est un texte gras__ et ~~Ceci est un texte barré~~
 __Il est possible de les _combiner_ comme ceci__ ou _encore comme __ceci___
 
