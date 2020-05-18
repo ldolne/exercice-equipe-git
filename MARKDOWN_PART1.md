@@ -1,6 +1,6 @@
 # Liens
-[Partie 2](https://github.com/ldolne/exercice-equipe-git/blob/master/MARKDOWN_PART2.md)
-[README](https://github.com/ldolne/exercice-equipe-git/blob/master/README.md)
+* [Partie 2](https://github.com/ldolne/exercice-equipe-git/blob/master/MARKDOWN_PART2.md)
+* [README](https://github.com/ldolne/exercice-equipe-git/blob/master/README.md)
 
 
 # Markdown : le guide du langage de balisage léger
@@ -140,21 +140,20 @@ Si vous préférez utiliser des caractères pour introduire et refermer des bloc
 Images et hyperliens
 Markdown permet aussi d’insérer des images et des hyperliens dans votre texte. Cette insertion se fait en combinant des parenthèses et des crochets. Pour créer un lien, vous devrez écrire les mots ou les phrases visibles dans le texte entre crochets, suivis directement de l’adresse URL entre parenthèses. Si vous souhaitez ajouter au lien un titre facultatif, visible par l’utilisateur au survol de la souris, c’est tout à fait possible : ce texte devra être ajouté à l’adresse URL entre les parenthèses, mais sera séparé d’une espace de l’URL, et inscrit entre guillemets doubles.
 
-Ici ce qui suit [Lien](https://example.com/ "titre de lien optionnel").
+
 Si vous insérez une adresse URL ou une adresse électronique dans votre texte ordinaire, la plupart des éditeurs Markdown créeront automatiquement un hyperlien accessible par clic. Pour forcer cette fonction, utilisez les signes inférieur et supérieur à. Si, en revanche, vous souhaitez empêcher les éditeurs d’activer cette fonction, marquez l’URL comme code, et utilisez à nouveau les apostrophes inversées.
 
-<https://example.com>
-`https://example.com`
+
 La syntaxe permettant d’insérer des images est semblable à celle des liens. On commence cependant par insérer un point d’exclamation. Suivent ensuite les crochets entre lesquels on insère le texte alternatif de l’image, puis l’URL de l’image entre parenthèses. L’image sera dans ce cas directement affichée dans le texte.
 
-![Ceci est un exemple d’image](https://example.com/bild.jpg)
- Conseil
+
+### Conseil
 Vous pouvez bien sûr créer des liens vers des pages HTML ou des images se trouvant sur votre propre serveur. Si le document concerné se trouve sur le même serveur, vous pouvez vous contenter de liens relatifs.
 
 Vous pouvez aussi combiner des images et des hyperliens. Si vous souhaitez insérer un lien cliquable derrière l’image, vous devez combiner les deux fonctions. L’image devient dans ce cas le texte d’ancrage et s’affiche donc entre les crochets.
 
-[![Ceci est un exemple d’image](https://example.com/bild.jpg)](https://example.com)
-Les tableaux
+
+### Les tableaux
 Les barres verticales (|) permettent d’éditer des tableaux avec Markdown. Chaque cellule du tableau est séparée d’une barre verticale. Pour créer des lignes de titre qui se distinguent du reste du tableau, vous devrez souligner les cellules concernées avec les tirets du 6.
 
 |cellule 1|cellule 2|
@@ -187,18 +186,16 @@ A & B
 Masquer les barres obliques inversées
 En plus des caractères spéciaux imposés par HTML, Markdown utilise quelques autres caractères pour le formatage. Si l’on insère ces caractères, l’analyseur syntaxique en tiendra compte au moment de la conversion. Voici les caractères concernés :
 
-Astérisque : *
-Trait d’union : -
-Souligné : _
-Parenthèses : ()
-Crochets : []
-Accolades : {}
-Point : .
-Point d’exclamation : !
-Dièse : #
-Accent grave : `
-Barre oblique inversée : \
+Astérisque : *  
+Trait d’union : -  
+Souligné : _  
+Parenthèses : ()  
+Crochets : []  
+Accolades : {}  
+Point : .  
+Point d’exclamation : !  
+Dièse : #  
+Accent grave : `  
+Barre oblique inversée : \  
 Si l’on veut utiliser ces caractères dans leur sens premier, il suffit de les précéder d’une barre oblique inversée. Important : Cette barre oblique inversée doit impérativement précéder chacun de ces caractères. Cela concerne donc autant une parenthèse ouvrante qu’une parenthèse fermante.
 
-Ceci est un \*exemple avec des astérisques\*.
-Ceci est un \*exemple avec des astérisques\*.
