@@ -107,4 +107,6 @@ Lorsqu' on veux ecrire des caratères specaux dans le text il faut le faire pré
 	```
 	alert("Hello wpRock");
 	```
+
+
 ![Link](https://media.giphy.com/media/YWUpVw86AtIbe/giphy.gif)
