@@ -1,6 +1,6 @@
 Liens:
-* Lien vers partie 1
-* Lien vers le README
+* [Lien vers partie 1](https://github.com/ldolne/exercice-equipe-git/blob/master/MARKDOWN_PART1.md)
+* [Lien vers le README](https://github.com/ldolne/exercice-equipe-git/blob/master/README.md)
 
 
 # Les paragraphes
