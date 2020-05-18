@@ -21,9 +21,15 @@ Liens:
 
     *Ceci est un texte italique*,  **Ceci est un texte gras** et ~~Ceci est un texte barré~~
     **Il est possible de les *combiner* comme ceci** ou *encore comme **ceci***
+Résultat:
+*Ceci est un texte italique*,  **Ceci est un texte gras** et ~~Ceci est un texte barré~~
+**Il est possible de les *combiner* comme ceci** ou *encore comme **ceci***
 
     _Ceci est un texte italique_ et __Ceci est un texte gras__ et ~~Ceci est un texte barré~~
     __Il est possible de les _combiner_ comme ceci__ ou _encore comme __ceci___
+Résultat:
+_Ceci est un texte italique_ et __Ceci est un texte gras__ et ~~Ceci est un texte barré~~
+__Il est possible de les _combiner_ comme ceci__ ou _encore comme __ceci___
 
 # Les liens
 
