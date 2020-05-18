@@ -1,11 +1,15 @@
- markdown partie 1](MARKDOWN_PART1.md) 
+# Menu
+
+[markdown partie 1](MARKDOWN_PART1.md) 
 [markdown partie 2](MARKDOWN_PART2.md) 
+
 # Qui a fait le projet
 * Laëtitia
 * Céline
 * Bryan
 * Artjom
 * Mehdi
+
 # Qu’est-ce que c’est ? 
 
 # Quand as-tu bossé dessus ?
