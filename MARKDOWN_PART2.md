@@ -4,13 +4,13 @@ Liens:
 
 
 # Les paragraphes
-
+(rajouter deux espaces à la fin du paragraphe)
     Ceci est un paragraphe
     Ceci est un autre paragraphe
 
-Résultat:
-Ceci est un paragraphe
-Ceci est un autre paragraphe
+Résultat:  
+Ceci est un paragraphe  
+Ceci est un autre paragraphe  
 
 # Les titres
 
@@ -45,10 +45,10 @@ __Il est possible de les _combiner_ comme ceci__ ou _encore comme __ceci___
 
 # Les liens
 
-    [Ceci est un lien](https://wprock.fr/blog/)
-    [Ceci est un lien avec un titre](https://wprock.fr/blog/ "Le titre du lien")
-    Ceci est un lien automatique : <https://wprock.fr/blog/>
-    Ceci est un lien email : <exemple@wprock.fr>
+    [Ceci est un lien](https://wprock.fr/blog/)  
+    [Ceci est un lien avec un titre](https://wprock.fr/blog/ "Le titre du lien")  
+    Ceci est un lien automatique : <https://wprock.fr/blog/>  
+    Ceci est un lien email : <exemple@wprock.fr>  
 
 Résultat:  
 [Ceci est un lien](https://wprock.fr/blog/)
