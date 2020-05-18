@@ -1,3 +1,8 @@
+# Liens
+[Partie 2](https://github.com/ldolne/exercice-equipe-git/blob/master/MARKDOWN_PART2.md)
+[README](https://github.com/ldolne/exercice-equipe-git/blob/master/README.md)
+
+
 # Markdown : le guide du langage de balisage léger
 Quand nous lisons des textes, que ce soit sur Internet, dans un magazine ou dans n’importe quel livre, nous nous attendons à une certaine mise en page. On utilise par exemple le gras pour mettre en avant des mots importants, on distingue au premier regard le titre d’un document et on utilise des présentations en forme de listes pour structurer certaines parties du document. Un tel formatage nous paraît évident, et derrière notre clavier d’ordinateur, lorsque nous rédigeons nos textes, tout cela ne nous pose aucun problème : nous changeons la taille des caractères, nous insérons des tirets et mettons certains mots et expressions en gras. N’importe quel traitement de texte offre à ses utilisateurs de nombreuses possibilités pour la mise en page des textes qu’ils éditent.
 
