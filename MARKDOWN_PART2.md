@@ -45,16 +45,16 @@ __Il est possible de les _combiner_ comme ceci__ ou _encore comme __ceci___
 
 # Les liens
 
-    [Ceci est un lien](https://wprock.fr/blog/)  
-    [Ceci est un lien avec un titre](https://wprock.fr/blog/ "Le titre du lien")  
-    Ceci est un lien automatique : <https://wprock.fr/blog/>  
-    Ceci est un lien email : <exemple@wprock.fr>  
+    [Ceci est un lien](https://wprock.fr/blog/)
+    [Ceci est un lien avec un titre](https://wprock.fr/blog/ "Le titre du lien")
+    Ceci est un lien automatique : <https://wprock.fr/blog/>
+    Ceci est un lien email : <exemple@wprock.fr>
 
 Résultat:  
-[Ceci est un lien](https://wprock.fr/blog/)
-[Ceci est un lien avec un titre](https://wprock.fr/blog/ "Le titre du lien")
-Ceci est un lien automatique : <https://wprock.fr/blog/>
-Ceci est un lien email : <exemple@wprock.fr>
+[Ceci est un lien](https://wprock.fr/blog/)  
+[Ceci est un lien avec un titre](https://wprock.fr/blog/ "Le titre du lien")  
+Ceci est un lien automatique : <https://wprock.fr/blog/>  
+Ceci est un lien email : <exemple@wprock.fr>  
 
 # Les listes simples et ordonnées
 
@@ -126,6 +126,7 @@ Terme 1
 Terme 2
 : Définition 2.1
 : Définition 2.2
+(mais pourquoi ça fonctionne pas???)
 
 # Les caractères speciaux
 
